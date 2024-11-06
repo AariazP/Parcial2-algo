@@ -1,0 +1,10 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(Üöùˆ8ÆŒ¾½¯2J$092eb962-3701-4087-a359-7014c09d7fe4
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ä£þ½¯2J$d935411f-f0fd-47c5-b806-14a364419545
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ä£þ½¯2J$98ab3f46-1271-4126-9344-0f26fbce9f38
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ä£þ½¯2J$530ecf67-2c1d-46c1-b231-7eab2adccbd4
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8ä£þ½¯2J$c1036f96-d1b9-4232-a86e-b0f7b22185ed

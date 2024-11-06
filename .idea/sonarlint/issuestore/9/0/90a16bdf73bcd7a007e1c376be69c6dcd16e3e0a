@@ -1,0 +1,11 @@
+
+d
+java:S1643"Use a StringBuilder instead.(œİÏñıÿÿÿÿ8åˆÂ¯2J$42bfd301-4e96-4e8e-9106-9d92de680631
+r	java:S106"+Replace this use of System.out by a logger.(±ÚÂ˜øÿÿÿÿ8èˆÂ¯2J$b5747908-5989-49e9-a02b-0756654c27fb
+‚
+java:S1854":Remove this useless assignment to local variable "append".(Ü©‰Ñıÿÿÿÿ8èˆÂ¯2J$544fe592-f9de-4541-812d-d894e2f9927b
+s
+java:S1481"+Remove this unused "append" local variable.(Ü©‰Ñıÿÿÿÿ8éˆÂ¯2J$1599107c-26b0-4203-a226-9e34ed1a1215
+k	java:S108 ")Either remove or fill this block of code.(ÌÛ€Õ8éˆÂ¯2J$c82e553f-26b9-454d-8e2b-95d5cfbf3984
+
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8éˆÂ¯2J$f8d0ba80-4624-47cd-bc17-05b20857a131
